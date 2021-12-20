@@ -25,7 +25,7 @@ const DaniCancino = {
 </div>
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: Mis proyectos
 <hr />
 
 <h2> Me podes contactar en: </h2>
