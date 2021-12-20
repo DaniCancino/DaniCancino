@@ -75,7 +75,7 @@ Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
     <a href="https://twitter.com/ziete_77">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
     </a>
-    <a href="https://github.com/tomas0011">
+    <a href="https://github.com/DaniCancino">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
 <p/>
