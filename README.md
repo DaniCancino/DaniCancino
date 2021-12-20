@@ -39,7 +39,7 @@ const DaniCancino = {
 
 <p>
     <a href="https://www.linkedin.com/in/danicancino-dev/">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
+      <img align="center" width= '230' heigth='200' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
   <a href="mailto:zieteweb@gmail.com" >
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20">
