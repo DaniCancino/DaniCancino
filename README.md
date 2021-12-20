@@ -1,4 +1,4 @@
-<img src='https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif' alt='Welcome Banner' display='flex' justify-content='center' align-items='center' />
+<img src='https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif' alt='Welcome Banner'  margin-left='100px' align='center' />
 <h1 align="center"> Hola, Mi nombre es Daniel! 👋 :computer: </h1>
 
 ```js
