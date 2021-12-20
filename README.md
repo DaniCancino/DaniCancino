@@ -1,11 +1,6 @@
 <div align = 'center'><img src='https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif' alt='Welcome Banner'  align='center' /></div>
 <h1 align="center"> Hola, Mi nombre es Daniel! 👋 :computer: </h1>
-<div>
-  <p>
-    Soy un Full Stack Developer que le gustan los desafios, me gustan mucho los algoritmos, soy una persona con mucha energia y ganas de adquirir muchos conocimientos.
-    Actualmente estoy realizando proyectos propios para aumentar mis conocimientos y poder afrontar nuevos desafios. Me gusta la musica y la tecnología.
-  </p>
-</div>
+
 ```js
 const DaniCancino = {
   Skills: {
@@ -22,6 +17,12 @@ const DaniCancino = {
   FutureTecnologies: ['Firebase', 'TypeScript', 'Socket.io'],
 }
 ```
+<div>
+  <p>
+    Soy un Full Stack Developer que le gustan los desafios, me gustan mucho los algoritmos, soy una persona con mucha energia y ganas de adquirir muchos conocimientos.
+    Actualmente estoy realizando proyectos propios para aumentar mis conocimientos y poder afrontar nuevos desafios. Me gusta la musica y la tecnología.
+  </p>
+</div>
 &nbsp;
 
 ## :pushpin: Mis proyectos
