@@ -31,6 +31,7 @@ const DaniCancino = {
   <a><img src="./assets/pag1.png"></a>
   <a><img src="./assets/pag2.png"></a>
   <a><img src="./assets/pag3.png"></a>
+  <a><img src="./assets/pag4.png"></a>
 </p> 
 &nbsp;
 <hr />
