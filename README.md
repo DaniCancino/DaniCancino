@@ -28,7 +28,7 @@ const DaniCancino = {
 ## :pushpin: Mis proyectos
 <hr />
 
-<h2> Me podes contactar en: </h2>
+## :paperclip: Me puedes contactar en:
 
 <p>
     <a href="https://www.linkedin.com/in/danicancino-dev/">
