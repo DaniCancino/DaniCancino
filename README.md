@@ -69,9 +69,6 @@ Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
     <a href="https://www.linkedin.com/in/danicancino-dev/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
-    <a href="zieteweb@gmail.com">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="20" />
-    </a>
     <a href="https://twitter.com/ziete_77">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="20" width="20" />
     </a>
