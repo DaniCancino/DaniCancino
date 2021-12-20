@@ -34,7 +34,6 @@ const DaniCancino = {
   <a><img width="300" heig="200" src="./assets/pag4.png"></a>
 </div> 
 &nbsp;
-<hr />
 
 ## :paperclip: Me puedes contactar en:
 
@@ -53,4 +52,4 @@ const DaniCancino = {
     </a>
 </div>
 
-<hr/>
+
