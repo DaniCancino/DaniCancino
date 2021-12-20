@@ -25,43 +25,7 @@ const DaniCancino = {
   <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz: </strong>
 </div>
 
-
-<h2> Back To The 90's </h2>
-
-![btt90s](https://user-images.githubusercontent.com/58223692/95638842-7aec8a00-0a6c-11eb-9643-20296c915a47.png)
-
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>Passport</li>
-</ul>
-
-<hr/>
-
-<h2> BankAppMe </h2>
-
-![BankAppMe](https://user-images.githubusercontent.com/58223692/95639279-3661ee00-0a6e-11eb-9976-7d597696652d.png)
-
-<h4> Desarrollada con: </h4>
-<ul>
-  <h5>|--| FrontEnd |--|</h5>
-    <li>React-Native</li>
-    <li>Redux</li>
-  <h5>|--| BackEnd |--|</h5>
-    <li>NodeJs</li>
-    <li>Express</li>
-    <li>Sequelize</li>
-    <li>Passport</li>
-</ul>
-Deployada en Digital Ocean en su <a href="https://bankappme.tk">dominio</a>
-
-<hr/>
+<hr />
 
 <h2> Me podes contactar en: </h2>
 
