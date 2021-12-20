@@ -29,9 +29,9 @@ const DaniCancino = {
 <h3>Recipes App</h3>
 <div>
   <a><img width="300" heig="200" src="./assets/pag 1.png"></a>
-  <a><img src="./assets/pag2.png"></a>
-  <a><img src="./assets/pag3.png"></a>
-  <a><img src="./assets/pag4.png"></a>
+  <a><img width="300" heig="200" src="./assets/pag2.png"></a>
+  <a><img width="300" heig="200" src="./assets/pag3.png"></a>
+  <a><img width="300" heig="200" src="./assets/pag4.png"></a>
 </div> 
 &nbsp;
 <hr />
