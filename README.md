@@ -26,6 +26,13 @@ const DaniCancino = {
 &nbsp;
 
 ## :pushpin: Mis proyectos
+<h3>Recipes App</h3>
+<p>
+  <a><img src="./assets/pag1.png"></a>
+  <a><img src="./assets/pag2.png"></a>
+  <a><img src="./assets/pag3.png"></a>
+</p> 
+&nbsp;
 <hr />
 
 ## :paperclip: Me puedes contactar en:
