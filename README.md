@@ -37,7 +37,7 @@ const DaniCancino = {
 
 ## :paperclip: Me puedes contactar en:
 
-<div>
+<p>
     <a href="https://www.linkedin.com/in/danicancino-dev/">
       <img align="center" width= '230' heigth='200' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
@@ -50,6 +50,6 @@ const DaniCancino = {
     <a href="https://github.com/DaniCancino">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
     </a>
-</div>
+</p>
 
 
