@@ -13,7 +13,7 @@ const DaniCancino = {
         ]
     },
   Proyects: [
-      RecipesApp: ['Reacte', 'Redux', 'NodeJs', 'Express', 'Sequelize']},
+      RecipesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']},
     ],
   FutureTecnologies: ['TypeScript', 'NextJS', 'Firebase', 'GraphQL', 'MongoDB' 'Socket.io'],
 }
