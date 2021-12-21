@@ -4,11 +4,12 @@
 ```js
 const DaniCancino = {
   Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
-        ],
       FrontEnd: [
           {JavaScript: ['React', 'React-Native', 'Redux']}
+        ],
+        
+      BackEnd: [
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
         ]
     },
   Proyects: [
