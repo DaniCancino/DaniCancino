@@ -15,7 +15,7 @@ const DaniCancino = {
   Proyects: [
       RecipesApp: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize']},
     ],
-  FutureTecnologies: ['TypeScript', 'NextJS', 'Firebase', 'GraphQL', 'MongoDB' 'Socket.io'],
+  FutureTecnologies: ['TypeScript', 'NextJS', 'Firebase', 'GraphQL', 'MongoDB' 'WebSockets'],
 }
 ```
 <div>
